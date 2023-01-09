@@ -1,0 +1,24 @@
+1. Hours to complete the project: 35 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Particle Identification): This was the most challenging part of the project and that was because I had issue with the add function in blob.py when being called by blob_finder.py and especially with the recursion steps. I realized that I was having issues with it because of how I was initializing the different objects with the parameters (i, j) in the order (j, i) so the results from my calculations were off. Once I got that corrected everything was smooth adterwards.
+
+   Problem 2 (Particle Tracking): At first I had issues creating during the recursion process when I was trying to create the objet for frame00001.jpg which  was frustrating because it was being created for other frames successfully. I was completely lost and then after posting this problem on Piazza that was how I learned that I had my parameters in the wrong order which I had to get corrected to solve this problem. 
+
+   Problem 3 (Data Analysis): This problem gave me the least amount the issues because it was just a matter of using the given formulas provided with the answers from bead_tracker.py. 
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   During this project I did not receive any help from any other parties except the CS110 instructor professor Iyer, and that was for furthor clarification of what the project required.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+This project was very challenging at first when I did not understand it but after I got the full clarification of what was needed in the project everything started to flow. I learned that without fully understanding what the requirement of a project is then it can be completed successfully. I love challenges because the more I get through them, is the more my level of programming is increasing so this was my favorite project of CS110.    
